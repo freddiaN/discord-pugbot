@@ -1,0 +1,4 @@
+github.com/JamesClonk/vultr v0.0.0-20180101102256-fa1c0367800d/go.mod h1:k9Jhe7M4bxsOOTMtsXQ0Hj7R7vw0FW4Q4jVJrPis9a8=
+github.com/bwmarrin/discordgo v0.18.0/go.mod h1:5NIvFv5Z7HddYuXbuQegZ684DleQaCFqChP2iuBivJ8=
+github.com/digitalocean/godo v1.6.0/go.mod h1:h6faOIcZ8lWIwNQ+DN7b3CgX4Kwby5T+nbpNqkUIozU=
+github.com/linode/linodego v0.5.1/go.mod h1:ga11n3ivecUrPCHN0rANxKmfWBJVkOXfLMZinAbj2sY=
