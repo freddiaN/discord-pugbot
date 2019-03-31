@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/freddiaN/discord-pugbot/do"
+	"github.com/rehtlaw/discord-pugbot/do"
 	"github.com/joho/godotenv"
 	"log"
 	"os"
