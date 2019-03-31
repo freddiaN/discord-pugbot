@@ -1,3 +1,3 @@
 # discord PugBOT with automatic server deployment
 
-a discord pugbot written in golang that automatically deploys gameservers on either DigitalOcean, Linode or Vultr
+this is very much a WIP, pretty much only work on this when i feel like it (aka. basically never :[)
